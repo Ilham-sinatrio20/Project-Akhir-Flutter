@@ -6,9 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:fergie_time/pages/detail_match.dart';
 import 'dart:async';
 
-void main() {
-  runApp(MyApp());
-}
+void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   @override
